@@ -1,7 +1,10 @@
 Chapter,Media Link,Media Credit,Media Credit Link,Description,Zoom,Marker,Marker Color,Location,Latitude,Longitude,Overlay,Overlay Transparency,GeoJSON Overlay,GeoJSON Feature Properties
-"Introduction to Wake County, NC",,,,Wake County is one of many counties within North Carolina. Within Wake County lies the capitol city of North Carolina: Raleigh. ,,,,,35.7803222,-78.6440721,,,,
+"Introduction to Wake County, NC",,,,Wake County is one of many counties within North Carolina. Within Wake County lies the capitol city of North Carolina: Raleigh. ,,,,,35.7803222,-78.6440721,,,geojson/ClipGEO.geojson,fillColor:blue;color:black
 Population Dynamics within Wake County,,,,,,,,,,,,,,
 Environmnetal Justice Index Rank by Tract,,,,hello ,,,,,,,,,,
 Environmnetal Burden Percentile Rank,,,,,,,,,,,,,,
 Social Vulnerability Percentile Rank,,,,,,,,,,,,,,
 Conclusion,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
