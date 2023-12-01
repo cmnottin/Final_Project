@@ -1,8 +1,8 @@
 Chapter,Media Link,Media Credit,Media Credit Link,Description,Zoom,Marker,Marker Color,Location,Latitude,Longitude,Overlay,Overlay Transparency,GeoJSON Overlay,GeoJSON Feature Properties
 "Introduction to Wake County, NC",,,,Wake County is one of many counties within North Carolina. Within Wake County lies the capitol city of North Carolina: Raleigh. ,,,,,35.782172,-78.6542012,geojson/ClipGEO.json,0.8,geojson/ClipGEO.geojson,fillColor:blue;color:black
-Population Dynamics within Wake County,,,,,,,,,,,,,,
+Population Dynamics within Wake County,"media/whitepop.png,media/asianpop.png",,,,,,,,,,,,,
 Environmnetal Justice Index Rank by Tract,media/EJRank.png,,,,,,,,,,,,,
-Environmnetal Burden Percentile Rank,"media/EB,png",,,,,,,,,,,,,
+Environmnetal Burden Percentile Rank,media/EB.png,,,,,,,,,,,,,
 Social Vulnerability Percentile Rank,media/SI.png,,,,,,,,,,,,,
 Water Quality Testing ,,,,Currently there is a project that focuses on analyzing water quality samples in southeast Raleigh. Shown here are the three sites that are tested for different water quality parameters such as temperature, dissolved oxygen, conductivity, nitrates and nitrates, as well as others. These three sites are a part of a larger project to access and advocate for environmental justice issues. ,,,,,,
 More Information,,,,Here are a few resources to go in order to learn more about Environmnetal Justice as well as other community outreach projects ,,,,,,,,,,
