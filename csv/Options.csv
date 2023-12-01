@@ -1,21 +1,21 @@
-Setting,Customize,Hints
-Storymap Info,,"For help, see tutorial in [HandsOnDataViz.org](https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html)"
-Storymap Title,"Exploring Enviornmnetal and Social Burden Indexes in Wake County, North Carolina",
-Storymap Subtitle,Analyzing Wake County by Tract Level<br><small>Scroll down<i class='fafa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
-Storymap Logo,media/NCState.jpg,Path to a logo image
-Google Analytics Tracking ID,,Sample format: UA-5488840-29
-Map Settings,,
-Basemap Tiles,CartoDB.Positron,[Drop-down menu for background basemap tiles](https://leaflet-extras.github.io/leaflet-providers/preview/)
-Zoom Controls,bottomright,
-Narrative Background Color,,
-Narrative Text Color,,
-Narrative Link Color,,
-Active Chapter Background Color,,
-Media Container Height,300,"Maximum height of the image, in pixels. 200 is default. The image will be fit into the container with its proportions kept (it won't be skewed)."
-Pixels After Final Chapter,600,"In pixels, at least 100"
-Enable Lightbox for Images,yes,yes or no
-Credits,,
-Author Name,Cecilia Nottingham,"Appears in map credits as ""View data by..."" (or leave blank)"
-Author Email or Website,,Create link in Author Name by inserting your email or web address (or leave blank)
-Author GitHub Repo Link,https://github.com/handsondataviz/leaflet-storymaps-with-google-sheets,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
-Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Appears in credits as ""...code by..."" (or leave blank)"
+,Setting,Customize,Hints
+0,Storymap Info,,"For help, see tutorial in [HandsOnDataViz.org](https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html)"
+1,Storymap Title,"Exploring Enviornmnetal and Social Burden Indexes in Wake County, North Carolina",
+2,Storymap Subtitle,Analyzing Wake County by Tract Level<br><small>Scroll down<i class='fafa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
+3,Storymap Logo,media/NCState.jpg,Path to a logo image
+4,Google Analytics Tracking ID,,Sample format: UA-5488840-29
+5,Map Settings,,
+6,Basemap Tiles,CartoDB.Positron,[Drop-down menu for background basemap tiles](https://leaflet-extras.github.io/leaflet-providers/preview/)
+7,Zoom Controls,bottomright,
+8,Narrative Background Color,,
+9,Narrative Text Color,,
+10,Narrative Link Color,,
+11,Active Chapter Background Color,,
+12,Media Container Height,300,"Maximum height of the image, in pixels. 200 is default. The image will be fit into the container with its proportions kept (it won't be skewed)."
+13,Pixels After Final Chapter,600,"In pixels, at least 100"
+14,Enable Lightbox for Images,yes,yes or no
+15,Credits,,
+16,Author Name,Cecilia Nottingham,"Appears in map credits as ""View data by..."" (or leave blank)"
+17,Author Email or Website,,Create link in Author Name by inserting your email or web address (or leave blank)
+18,Author GitHub Repo Link,https://github.com/handsondataviz/leaflet-storymaps-with-google-sheets,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
+19,Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Appears in credits as ""...code by..."" (or leave blank)"
